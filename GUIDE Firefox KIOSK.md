@@ -1,6 +1,3 @@
-# firefox-kiosk
-Tips for your own kiosk setup
-
 # Firefox KIOSK Mode
 ## 28.05.2021r.
 
